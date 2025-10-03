@@ -32,4 +32,5 @@ file.
 * STEP 16: At the particular time call the finish procedure. 
 * STEP 17: Stop the program.
 
-![NS2 Bus topology](NS2 Bus topology.png)
+![WhatsApp Image 2025-10-03 at 09 23 01_12704814](https://github.com/user-attachments/assets/d191d3e0-42df-4ac8-8cdb-6aaa61cf91ef)
+
